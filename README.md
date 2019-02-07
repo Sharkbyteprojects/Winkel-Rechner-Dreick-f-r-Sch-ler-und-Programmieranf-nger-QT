@@ -2,7 +2,7 @@ BERECHNET WINKEL
 
 
 -  [Download Quellcode as ZIP](https://github.com/Sharkbyteprojects/Winkel-Rechner-Dreick-f-r-Sch-ler-und-Programmieranf-nger-QT/archive/master.zip)
-- [DOWNLOAD INSTALLER](https://github.com/Sharkbyteprojects/Winkel-Rechner-Dreick-f-r-Sch-ler-und-Programmieranf-nger-QT/releases/download/WIN1/WINKEL.WINDOWS.INSTALL.exe)
+- [DOWNLOAD INSTALLER Portable](https://github.com/Sharkbyteprojects/Winkel-Rechner-Dreick-f-r-Sch-ler-und-Programmieranf-nger-QT/releases/download/WIN1/WINKEL.WINDOWS.Portable.exe)
 
 
 ---
